@@ -9,7 +9,7 @@ Old Material Cost: 4 Stone Blocks
 Old Work Cost: 500
 
 # INSTALLATION:
-Place "ReleaseTheRats" folder into your RimWorld mods folder.
+Place "BetterFlagstone" folder into your RimWorld mods folder.
 
 # FAQ
 Q: Can I add this to an existing save?
