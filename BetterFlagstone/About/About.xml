@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ModMetaData>
+  <name>Better Flagstone</name>
+  <author>dickmosi</author>
+  <packageId>mosi.betterflagstone</packageId>
+  <supportedVersions>
+    <li>1.1</li>
+  </supportedVersions>
+  <description>This mod simply decreases the material cost and work cost of the Flagstone tiles to properly set them apart from Stone Tiles, overall making flagstone tiles less pointless. Deconstructing Flagstone tiles still yield no resources.
+  
+  Material Cost: 4 Bricks per tile -> 2 Bricks per Tile
+  Work Cost: 500 Work per tile -> 300 Work per Tile
+  </description>
+</ModMetaData>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Patch>
+
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/TerrainDef[@Name = "FlagstoneBase"]/statBases/WorkToBuild</xpath>
+			<value>
+				<WorkToBuild>300</WorkToBuild>
+			</value>
+	</Operation>
+
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/TerrainDef[defName = "FlagstoneSandstone"]/costList/BlocksSandstone</xpath>
+			<value>
+				<BlocksSandstone>2</BlocksSandstone>
+			</value>
+	</Operation>
+	
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/TerrainDef[defName = "FlagstoneGranite"]/costList/BlocksGranite</xpath>
+			<value>
+				<BlocksGranite>2</BlocksGranite>
+			</value>
+	</Operation>
+	
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/TerrainDef[defName = "FlagstoneLimestone"]/costList/BlocksLimestone</xpath>
+			<value>
+				<BlocksLimestone>2</BlocksLimestone>
+			</value>
+	</Operation>
+	
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/TerrainDef[defName = "FlagstoneSlate"]/costList/BlocksSlate</xpath>
+			<value>
+				<BlocksSlate>2</BlocksSlate>
+			</value>
+	</Operation>
+	
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/TerrainDef[defName = "FlagstoneMarble"]/costList/BlocksMarble</xpath>
+			<value>
+				<BlocksMarble>2</BlocksMarble>
+			</value>
+	</Operation>
+
+</Patch>
