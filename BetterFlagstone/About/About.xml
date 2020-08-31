@@ -6,6 +6,7 @@
   <packageId>mosi.betterflagstone</packageId>
   <supportedVersions>
     <li>1.1</li>
+    <li>1.2</li>
   </supportedVersions>
   <description>This mod simply decreases the material cost and work cost of the Flagstone tiles to properly set them apart from Stone Tiles, overall making flagstone tiles less pointless. Deconstructing Flagstone tiles still yield no resources.
   
